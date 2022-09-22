@@ -1,0 +1,3 @@
+u-boot.bin		usr/share/u-boot-asahi
+u-boot-nodtb.bin	usr/share/u-boot-asahi
+

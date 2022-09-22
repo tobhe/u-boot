@@ -1,0 +1,5 @@
+u-boot-asahi (2022.07-4~rc1) jammy; urgency=medium
+
+  * Initial release.
+
+ -- Tobias Heider <me@tobhe.de>  Thu, 22 Sep 2022 22:02:58 +0200
