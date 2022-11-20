@@ -1,3 +1,9 @@
+u-boot-asahi (2022.10-1) jammy; urgency=medium
+
+  * Bump to 2022.10-1
+
+ -- Tobias Heider <me@tobhe.de>  Sun, 20 Nov 2022 00:55:23 +0100
+
 u-boot-asahi (2022.07-3.1+git) jammy; urgency=medium
 
   * Disable u-boot logo in default config
